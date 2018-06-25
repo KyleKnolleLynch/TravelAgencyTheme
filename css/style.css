@@ -1,0 +1,16 @@
+.section-search input{
+    padding:5px !important;
+    font-size:20px !important;
+    width: 90% !important;
+    border: #f4f4f4 4px solid !important;
+}
+
+.section-follow .fab{
+    margin:5px 10px;
+}
+
+#tree_pic_text{
+    padding:5rem 15rem 0 0;
+}
+
+
