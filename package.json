@@ -1,0 +1,15 @@
+{
+  "name": "acme_travel_theme",
+  "version": "1.0.0",
+  "description": "fully responsive travel site",
+  "main": "index.html",
+  "homepage": "https://github.com/KyleKnolleLynch/TravelAgencyTheme",
+  
+  "scripts": {
+    "": ""
+  },
+
+  "author": "Kyle Lynch",
+  "license": "MIT",
+  
+}
