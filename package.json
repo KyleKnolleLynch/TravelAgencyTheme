@@ -4,12 +4,12 @@
   "description": "fully responsive travel site",
   "main": "index.html",
   "homepage": "https://github.com/KyleKnolleLynch/TravelAgencyTheme",
-  
+
   "scripts": {
     "": ""
   },
 
   "author": "Kyle Lynch",
-  "license": "MIT",
+  "license": "MIT"
   
 }
