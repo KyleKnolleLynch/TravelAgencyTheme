@@ -1,0 +1,17 @@
+body{
+    font-family:'Roboto Condensed', Arial, Helvetica, sans-serif;
+}
+.section-search input{
+    padding:5px !important;
+    font-size:20px !important;
+    width: 90% !important;
+    border: #f4f4f4 4px solid !important;
+}
+
+.section-follow .fab{
+    margin:5px 10px;
+}
+
+
+
+
